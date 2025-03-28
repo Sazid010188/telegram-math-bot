@@ -1,0 +1,4 @@
+python-telegram-bot==20.1
+sympy==1.10.1
+pytesseract==0.3.8
+opencv-python==4.7.0.72
