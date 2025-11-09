@@ -22,7 +22,7 @@ from telegram.ext import Application, MessageHandler, CommandHandler, filters, C
 # ----------------- Configuration -----------------
 CONFIG = {
     "tesseract_path": r"C:\Program Files\Tesseract-OCR\tesseract.exe",
-    "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",  # <-- replace this
+    "telegram_token": "7639304877:AAHIsBSvy1H8LxXWqNRsMMXgW1qvcvKfF1s",  # <-- replace this
     "temp_dir": "math_temp",
     "allowed_chars": r'[0-9+\-*/^×÷()=a-zA-Z&]',
     "max_image_size": 2048,
@@ -216,3 +216,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
